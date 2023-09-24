@@ -1,3 +1,7 @@
+ppvue is an attempt to build reactivity into the IIFE file of petite-vue.
+To achieve this https://stackoverflow.com/questions/72752587/access-or-modify-petite-vue-data-outside-app
+
+
 # petite-vue
 
 `petite-vue` is an alternative distribution of [Vue](https://vuejs.org) optimized for [progressive enhancement](https://developer.mozilla.org/en-US/docs/Glossary/Progressive_Enhancement). It provides the same template syntax and reactivity mental model as standard Vue. However, it is specifically optimized for "sprinkling" a small amount of interactions on an existing HTML page rendered by a server framework. See more details on [how it differs from standard Vue](#comparison-with-standard-vue).
