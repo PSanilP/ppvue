@@ -1,5 +1,5 @@
-#ppvue
-ppvue is an attempt to build reactivity into the IIFE file of petite-vue.
+# ppvue
+ppvue is an attempt to build reactivity into the IIFE file of petite-vue, without having to import module.
 To achieve this https://stackoverflow.com/questions/72752587/access-or-modify-petite-vue-data-outside-app
 
 
