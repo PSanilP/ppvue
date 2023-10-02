@@ -79,7 +79,7 @@ export const createApp = (initialData?: any) => {
       }
 
       rootBlocks = roots.map((el) => new Block(el, ctx, true))
-      return ctx.scope
+      return this
     },
 
     unmount() {
